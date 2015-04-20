@@ -2,7 +2,11 @@ source 'https://rubygems.org'
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
+<<<<<<< HEAD
 gem 'rails', '4.2.1'
+=======
+gem 'rails', '4.2.0'
+>>>>>>> df627b1583256fc521a234290fd1dc7c68ec6baa
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 # Use SCSS for stylesheets
@@ -11,10 +15,17 @@ gem 'sass-rails', '~> 5.0'
 gem 'uglifier', '>= 1.3.0'
 # Use CoffeeScript for .coffee assets and views
 gem 'coffee-rails', '~> 4.1.0'
+<<<<<<< HEAD
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
 
 gem 'bootstrap-sass', '~>3.1.1'
+=======
+# See https://github.com/sstephenson/execjs#readme for more supported runtimes
+# gem 'therubyracer', platforms: :ruby
+
+gem 'bootstrap-sass', '~> 3.1.1'
+>>>>>>> df627b1583256fc521a234290fd1dc7c68ec6baa
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
